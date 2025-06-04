@@ -1,4 +1,4 @@
-Date,Time,State,Group,Unit,Sales
+Date,Time,State,Demographic_Group,Units,Sales
 1-Oct-2020, Morning, WA, Kids, 8, 20000
 1-Oct-2020, Morning, WA, Men, 8, 20000
 1-Oct-2020, Morning, WA, Women, 4, 10000
